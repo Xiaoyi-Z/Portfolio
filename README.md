@@ -2,9 +2,7 @@
 This is my public portfolio for the Telling Stories with Data course.
 
 # About me
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)\
-Hello! I'm a student in the Telling Stories with Data course.\
+:wave:Hello! I'm a student in the Telling Stories with Data course.\
 Name: Xiaoyi Zhu\
 Pronoun: She/Her\
 Program: Integrated Innovation for Products and Services, MS\
