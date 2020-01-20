@@ -2,7 +2,7 @@
 This is my public portfolio for the Telling Stories with Data course.
 
 # About me
-![wave](https://emojipedia.org/waving-hand-sign/) Hello! I'm a student in the Telling Stories with Data course.
+👋 Hello! I'm a student in the Telling Stories with Data course.
 * Name: Xiaoyi Zhu
 * Pronoun: She/Her
 * Bachelor's Degree: Information Engineering & Media
