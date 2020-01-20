@@ -15,7 +15,7 @@ This is my public portfolio for the Telling Stories with Data course.
 I hope to learn:
 * Data visualization techniques
 * How to tell a compelling story with the support of data
-* How to use data to justify my design decisions as a UI/UX designer
+* How to use data to justify my design decisions as UI/UX designer in the future
 
 # Portfolio
 👀 Here's where all of my cool data visualizations will go! 👀
