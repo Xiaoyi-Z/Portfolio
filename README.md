@@ -7,6 +7,8 @@ This is my public portfolio for the Telling Stories with Data course.
 * Pronoun: She/Her
 * Bachelor's Degree: Information Engineering & Media
 * Master's Program: Integrated Innovation for Products & Services
+* Things I enjoy: :icecream::video_game::art::roller_coaster:
+* Places I lived: :cn::singapore::finland::uk::us:
 * Plan after graduation: Work as UI/UX Designer :metal:
 
 # What I hope to learn
