@@ -7,9 +7,9 @@ This is my public portfolio for the Telling Stories with Data course.
 * Pronoun: She/Her
 * Bachelor's Degree: Information Engineering & Media
 * Master's Program: Integrated Innovation for Products & Services
-* Things I enjoy: :icecream::video_game::art::roller_coaster:
-* Places I've lived: :cn::singapore::finland::uk::us:
-* Plan after graduation: Work as UI/UX Designer :metal:
+* Things I enjoy: 🍦🎮🎨🎢💤
+* Places I've lived: 🇨🇳🇸🇬🇰🇷🇫🇮🇬🇧🇺🇸
+* Plan after graduation: Work as UI/UX Designer 🤘
 
 # What I hope to learn
 I hope to learn:
@@ -18,4 +18,4 @@ I hope to learn:
 * How to use data to justify my design decisions as a UI/UX designer
 
 # Portfolio
-:eyes: Here's where all of my cool data visualizations will go! :eyes:
+👀 Here's where all of my cool data visualizations will go! 👀
