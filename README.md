@@ -5,8 +5,8 @@ This is my public portfolio for the Telling Stories with Data course.
 👋 Hello! I'm a student in the Telling Stories with Data course.
 * Name: Xiaoyi Zhu
 * Pronoun: She/Her
-* Bachelor's Degree: Information Engineering & Media
-* Master's Program: Integrated Innovation for Products & Services
+* Bachelor's Degree: Information Engineering & Media@NTU, Singapore
+* Master's Program: Integrated Innovation for Products & Services@CMU
 * Things I enjoy: 🍦🎮🎨🎢💤
 * Places I've lived: 🇨🇳🇸🇬🇰🇷🇫🇮🇬🇧🇺🇸
 * Plan after graduation: Work as UI/UX Designer 🤘
