@@ -1,4 +1,4 @@
-# Xiaoyi's portfolio
+# Xiaoyi's Portfolio
 This is my public portfolio for the Telling Stories with Data course.
 
 # About me
