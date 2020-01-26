@@ -54,7 +54,7 @@ I also did some additional processing on the dataset to include the “World Avg
 
 Following the data of these five countries from 1995 to 2018, we can see some interesting things going on here:
 
-1. lots of fluctuations and changes in rankings happened during 2010-2012. What could be the social, economic, and politic factors that let to this?
+1. Lots of fluctuations and changes in rankings happened during 2010-2012. What could be the social, economic, and politic factors that let to this?
 
 2. The debt percentage values of the countries grew significantly in 2012 and stabilized.
 
