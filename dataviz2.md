@@ -47,16 +47,16 @@ I chose to visualize the data in a bump chart because it does a good job of show
 I tried to include the entire dataset and experimented with several visualization methods but find the visualizations a bit overwhelming. So in this bump chart, I eventually decided to take a subset of the dataset to just focus on one year and the countries with the most debt percentages.
 <br />
 
-More specifically, I chose to show the top 5 countries with the highest debt percentages in 2018, and how they got there from 1995. It is intuitive that the darker blues are used to show higher values, and the lighter blues are used to show lower values.
+More specifically, I chose to show the top 5 countries with the highest debt percentages in 2018, and how they got there from 1995. It is intuitive that the darker blues are assigned to the countries of higher rankings in 2018, and the lighter blues are assigned to countries of lower rankings in 2018.
 <br />
 
 I also did some additional processing on the dataset to include the “World Avg.” data. This serves as a benchmark for the audience to understand the relative level of debts of these countries compared to the world's average. I used the light grey color to distinguish it from the data of the five countries.
 
 Following the data of these five countries from 1995 to 2018, we can see some interesting things going on here:
 
-1. The fluctuation in the debt % value of Greece and Italy are almost exactly the reverse of each other from 1995-2009. Could this be correlated? What are the social, economic, and political factors in play that might have led to this?
+1. lots of fluctuations and changes in rankings happened during 2010-2012. What could be the social, economic, and politic factors that let to this?
 
-2. The debt percentage value of the US experienced a dramatic drop from 2010 to 2012.
+2. The debt percentage values of the countries grew significantly in 2012 and stabilized.
 
 For both points, the chart will clearly help raise curiosities in the audience and stimulate conversations/discussions.
 <br />
