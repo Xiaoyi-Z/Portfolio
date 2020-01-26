@@ -21,6 +21,5 @@ I hope to learn:
 👀 Here's where all of my cool data visualizations will go! 👀
 
 # Progress
-Wk1. Critique #1_ Economist bar chart (The Good Charts Matrix)
-* Link: https://docs.google.com/spreadsheets/d/1u4hj-Z5-KNY2H9h5qlrXhYXZlUwT74TkKG2L6jg-9A4/edit?usp=sharing
-Wk2. OECD data visualization (/dataviz2.md)
+[Wk1. Critique #1_ Economist bar chart (The Good Charts Matrix)](https://docs.google.com/spreadsheets/d/1u4hj-Z5-KNY2H9h5qlrXhYXZlUwT74TkKG2L6jg-9A4/edit?usp=sharing)
+[Wk2. OECD data visualization](/dataviz2.md)
