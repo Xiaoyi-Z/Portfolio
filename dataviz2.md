@@ -6,7 +6,7 @@
 
 <iframe src="https://data.oecd.org/chart/5OWZ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OWZ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
-Total, % of GDP, 2015, Source: OECD National Accounts Statistics: National Accounts at a Glance
+Source: OECD National Accounts Statistics: National Accounts at a Glance
 
 <br />
 
